@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sanketchinchavade.github.io/TODO-List-Using-React-JS",
+  "homepage": "https://sanketchinchavade.github.io/REACT-TO-DO-LIST",
   "name": "demo-package-json",
   "version": "0.1.0",
   "private": true,
@@ -40,4 +40,3 @@
     ]
   }
 }
-git remote set-url https://github.com/sanketchinchavade/TODO-List-Using-React-JS.gitgit push -u origin main
