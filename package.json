@@ -40,3 +40,4 @@
     ]
   }
 }
+git remote set-url https://github.com/sanketchinchavade/TODO-List-Using-React-JS.gitgit push -u origin main
